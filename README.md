@@ -1,4 +1,12 @@
-# MedEQBench: Medical Emotional Intelligence Benchmark for LLMs
+[//]: # (# MedEQBench: Medical Emotional Intelligence Benchmark for LLMs)
+<div align="center">
+  <img src="./img/1.png" alt="MedEQ" width="180" style="max-width:100%; height:auto;">
+  <h1 style="margin:16px 0 8px;">MedEQBench: Medical Emotional Intelligence Benchmark for LLMs</h1>
+</div>
+
+<a href="https://opensource.org/licenses/Apache-2.0">
+  <img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License: Apache 2.0">
+</a>
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ---
